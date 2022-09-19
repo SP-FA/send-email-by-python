@@ -1,6 +1,8 @@
-# send email by python
+# Send email by python
  
 _闲的无聊一晚上写的_
+
+打算做个包加到程序里，在模型训练完后不论我在哪里都能收到训练结果
 
 ## 开始
 
